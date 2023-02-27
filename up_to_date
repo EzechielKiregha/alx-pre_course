@@ -1,12 +1,1 @@
-git clone
-git config --global user.email "useremail"
-git config --global user.name "username"
-git add
-git commit
-git push
-git branch branchname
-git branch
-git checkout branchname
 git pull
-git --set-upstream remotename newbranchname
-
